@@ -1,0 +1,21 @@
+* 
+
+    button  {
+    width: 100%;
+    padding: 8px 0;
+    border: none;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 6px;
+    }
+
+
+
+body {
+    padding-top: 8px;
+}
+
+.carousel {
+    margin-bottom: 8px;
+}
